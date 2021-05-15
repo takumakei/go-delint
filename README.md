@@ -1,6 +1,8 @@
 Package delint implements functions for better life with lint.
 ======================================================================
 
+[![GoDoc](https://pkg.go.dev/badge/github.com/takumakei/go-delint)](https://godoc.org/github.com/takumakei/go-delint)
+
 The function 'Must'
 ----------------------------------------------------------------------
 
